@@ -1,0 +1,14 @@
+{
+  "name": "html-js-css",
+  "version": "1.0.0",
+  "description": "HTML + CSS + JS",
+  "main": "index.js",
+  "scripts": {
+    "build": "",
+    "start": "http-server --port 443"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
